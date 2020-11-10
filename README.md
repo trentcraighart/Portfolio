@@ -7,6 +7,7 @@ In this repository I hope to highlight some of the more interesting elements of 
 CS-419 was an opportunity to dig into the academic world of security through dissecting research papers and implementing their findings to exploit a system built by our professor. The following were the projects we implemented in the class:
 * Rowhammer
 * Cache Side Channel Attacks
+* Spectre
 * Meltdown
 * Library/System Call Hooks
 * Intel SGX Flush Reload Attacks
